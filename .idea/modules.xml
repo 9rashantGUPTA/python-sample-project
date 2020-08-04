@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../analyzer/.idea/analyzer.iml" filepath="$PROJECT_DIR$/../analyzer/.idea/analyzer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/crm1.iml" filepath="$PROJECT_DIR$/.idea/crm1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dataAnalyzer/.idea/dataAnalyzer.iml" filepath="$PROJECT_DIR$/../dataAnalyzer/.idea/dataAnalyzer.iml" />
+    </modules>
+  </component>
+</project>
